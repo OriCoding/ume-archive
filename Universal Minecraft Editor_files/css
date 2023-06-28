@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://web.archive.org/web/20211222004538im_/https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoC1CzjsGyI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://web.archive.org/web/20211222004538im_/https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCjC3jsGyI.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 00:45:38 Dec 22, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:22:53 Jun 28, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 284.761
+  exclusion.robots: 0.141
+  exclusion.robots.policy: 0.127
+  cdx.remote: 0.091
+  esindex: 0.012
+  LoadShardBlock: 237.75 (3)
+  PetaboxLoader3.datanode: 257.215 (4)
+  load_resource: 193.14
+  PetaboxLoader3.resolve: 138.431
+*/
